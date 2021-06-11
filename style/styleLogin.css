@@ -1,0 +1,120 @@
+#z{height:100%;
+width:100%;}
+#adminImg{
+	border-radius: 10px;
+	border- radius: 15px 30px 15px 30px;
+background: #F0EFE2 url(background.png) repeat; 
+}
+#adminImg:hover{
+box-shadow: 4px 4px 8px white;
+}
+#a{padding-top:1px;
+padding-bottom:20px;
+backgroun d :#f7aa00; 
+backgroun d: #F0EFE2 url(background.png) repeat; 
+background: #1D1D1D url(header.png) repeat;
+font-size:x-large;
+font -size:100%; 
+height:11%;
+width:100%;}
+
+#b{font:italic 150% 'Imprint MT Shadow', arial, sans-serif;
+fon t:normal 175% 'century gothic', arial, sans-serif;
+backgroun d: #F0EFE2 url(background.png) repeat; 
+color:white;  
+colo r:#F0EFE2;  
+font- size:x-large;
+text -shadow: 15px 15px 3px red;	
+text -shadow: -1px 0 #0D66A5, 0 1px #0D66A5, 1px 0 #0D66A5, 0 -1px #0D66A5;	
+text -shadow: 2px 2px 4px #000000;
+text- shadow: 15px 10px 4px #0D66A5;
+text-shadow: 1px 1px 2px #0D66A5, 0 0 25px #0D66A5, 0 0 5px #0D66A5;#4A235A
+margin: 0 0 15px 15px;
+padding: 15px 0px 5px 0;}
+
+#c{margin:0;}
+
+#d{border-spacing:2px;
+border-collapse:collapse;}
+
+#e{font-family:'Lucida Fax';
+font-weight:bold;}
+
+#f{width:70%;}
+
+#g{height:78%;
+width:100%;}
+
+#h{background -color:#f0efe2;
+background: #F0EFE2 url(background.png) repeat; 
+text-align:center;}
+
+#i{font-size:x-large;}
+
+#j{font-size:large;
+}
+#j:hover{
+text -shadow: 15px 15px 3px #0D66A5;	
+}
+#k{border: 1px groove #C0C0C0;
+border-radius:6px;
+font-size:medium;
+border-style:Solid;
+height:50px;
+width:300px;}
+
+#k:hover{
+	box-shadow: 0px 0px 6px #0D66A5;
+}
+
+#l{border: 1px groove #C0C0C0;
+border-radius:6px;
+font-size:medium;
+border-style:Solid;
+height:50px;
+width:300px;
+margin-top:15px;
+margin-bottom:5px;}
+
+#l:hover{
+	box-shadow: 0px 0px 6px #0D66A5;
+}
+
+#o{
+font-size:small;
+}
+#o:hover{
+text-shadow: 15px 15px 3px #0D66A5;	
+}
+#p{color:White;
+border-width:0px;
+height:50px;
+width:280px;
+margin-top:5px;
+margin-bottom:5px;
+background -color:#f78702;
+background -color:#1D1D1D ;
+background: #1D1D1D url(header.png) repeat;
+border-radius:6px;
+font-size:medium;
+font-weight: bold;}
+
+#p:hover{
+	box-shadow: 0px 0px 6px #0D66A5;	
+}
+
+#r{margin-bottom:5px;
+font-size:small;}
+
+#r:hover{
+	text-shadow: 15px 15px 3px #0D66A5;	
+	
+}
+
+div#q{color:white;
+text -shadow: 2px 2px 2px #0D66A5;	
+padding-top:1.5mm;
+backgroun d:#f78702;
+background: #1D1D1D url(header.png) repeat;
+height:5%;
+text-align:center;}
